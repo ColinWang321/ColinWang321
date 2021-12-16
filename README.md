@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some interesting open source project.
 - 📫 How to reach me. My email is: colinwang321@gmail.com. My phone number is: 0434 019 232. 
 
-I live in Perth, I hope I can find a job as Junior Software Developer/Engineer.
+I live in Perth, I hope I can find a job as Software Developer/Engineer.
 
 <!---
 ColinWang321/ColinWang321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
